@@ -13,3 +13,8 @@ end
 function love.draw()
     love.graphics.print(number)
 end
+
+
+function love.draw()
+    love.graphics.print(number)
+end
